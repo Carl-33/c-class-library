@@ -1,0 +1,12 @@
+C:\Users\koepk\Repositories\c-class-library\StringLibrary\bin\Release\net5.0\StringLibrary.deps.json
+C:\Users\koepk\Repositories\c-class-library\StringLibrary\bin\Release\net5.0\StringLibrary.dll
+C:\Users\koepk\Repositories\c-class-library\StringLibrary\bin\Release\net5.0\ref\StringLibrary.dll
+C:\Users\koepk\Repositories\c-class-library\StringLibrary\bin\Release\net5.0\StringLibrary.pdb
+C:\Users\koepk\Repositories\c-class-library\StringLibrary\obj\Release\net5.0\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\koepk\Repositories\c-class-library\StringLibrary\obj\Release\net5.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koepk\Repositories\c-class-library\StringLibrary\obj\Release\net5.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\koepk\Repositories\c-class-library\StringLibrary\obj\Release\net5.0\StringLibrary.AssemblyInfo.cs
+C:\Users\koepk\Repositories\c-class-library\StringLibrary\obj\Release\net5.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\koepk\Repositories\c-class-library\StringLibrary\obj\Release\net5.0\StringLibrary.dll
+C:\Users\koepk\Repositories\c-class-library\StringLibrary\obj\Release\net5.0\ref\StringLibrary.dll
+C:\Users\koepk\Repositories\c-class-library\StringLibrary\obj\Release\net5.0\StringLibrary.pdb
